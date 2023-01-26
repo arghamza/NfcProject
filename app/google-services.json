@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "326198438295",
+    "project_id": "projetnfc-14fe5",
+    "storage_bucket": "projetnfc-14fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326198438295:android:ac765aa24b7ef1d2f83cd2",
+        "android_client_info": {
+          "package_name": "com.example.nfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326198438295-qogtgk743sgsuju9oiekrsq4bk086ijd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXU-MeN4WDr2SAN8qRL8K4tHSwxEHbdGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326198438295-qogtgk743sgsuju9oiekrsq4bk086ijd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326198438295:android:34bbad61fd9ae048f83cd2",
+        "android_client_info": {
+          "package_name": "com.example.projetnfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326198438295-qogtgk743sgsuju9oiekrsq4bk086ijd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXU-MeN4WDr2SAN8qRL8K4tHSwxEHbdGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326198438295-qogtgk743sgsuju9oiekrsq4bk086ijd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
